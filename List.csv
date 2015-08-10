@@ -30,6 +30,7 @@ Discriminative Unsupervised Feature Learning with Convolutional Neural Networks,
 ,,
 **********CVPR'15**********,,
 Hypercolumns for Object Segmentation and Fine-grained Localization,Seg,http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf
+Domain-Size Pooling in Local Descriptors DSP-SIFT,Match,http://vision.ucla.edu/~jingming/proj/dsp/
 ,,
 ,,
 **********Journal Paper 2014***********,,
@@ -43,3 +44,4 @@ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov
 Delving Deep into Rectifiers:Surpassing Human-Level Performance on ImageNet Classification,CNN,
 Holistically-Nested Edge Detection, Edge Det, http://arxiv.org/abs/1504.06375
 Learning to Segment Object Candidates, Det,
+Data-free Parameter Pruning for Deep Neural Networks,CNN,
