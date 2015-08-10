@@ -2,7 +2,7 @@ Title,Cat,PDF
 ,,
 **********CVPR'14**********,,
 Rich feature hierarchies for accurate object detection and semantic segmentation,DET,
-PANDA Pose Aligned Networks for Deep Attribute Modeling,Attribute,http://www.cs.berkeley.edu/~nzhang/papers/cvpr14_panda.pdf
+PANDA: Pose Aligned Networks for Deep Attribute Modeling,Attribute,http://www.cs.berkeley.edu/~nzhang/papers/cvpr14_panda.pdf
 BING: Binarized Normed Gradients for Objectness Estimation at 300fps,DET,http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf
 Large-scale video classification with convolutional neural networks,AR,http://vision.stanford.edu/pdf/karpathy14.pdf
 ,,
