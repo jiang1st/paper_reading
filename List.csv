@@ -30,8 +30,9 @@ Deep Learning Face Representation by Joint Identification - Verification,Face,
 ,,
 ,,
 **********CVPR'15**********,,
-Hypercolumns for Object Segmentation and Fine-grained Localization,Seg,http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf
+Hypercolumns for Object Segmentation and Fine-grained Localization,SDS,http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf
 Domain-Size Pooling in Local Descriptors: DSP-SIFT,Match,http://vision.ucla.edu/~jingming/proj/dsp/
+Fully Convolutional Networks for Semantic Segmentation,Seg,http://www.cs.berkeley.edu/~jonlong/
 ,,
 ,,
 **********Journal Paper 2014***********,,
