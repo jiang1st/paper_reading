@@ -15,6 +15,7 @@ Part-based R-CNNs for Fine-grained Category Detection,CLS,http://arxiv.org/pdf/1
 Visualizing and Understanding Convolutional Networks,CNN,http://ftp.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
 Analyzing the Performance of Multilayer Neural Networks for Object Recognition,CNN,http://arxiv.org/pdf/1407.1610.pdf
 Spatio-Temporal Object Detection Proposals,DET,http://lear.inrialpes.fr/~oneata/3Dproposals/
+Simultaneous Detection and Segmentation,SDS,http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
 ,,
 **********BMVC/ICLR/MM**********,,
 "[BMVC2014]How good are detection proposals, really?",DET,https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/
@@ -33,7 +34,8 @@ Deep Learning Face Representation by Joint Identification - Verification,Face,
 Hypercolumns for Object Segmentation and Fine-grained Localization,SDS,http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf
 Domain-Size Pooling in Local Descriptors: DSP-SIFT,Match,http://vision.ucla.edu/~jingming/proj/dsp/
 Fully Convolutional Networks for Semantic Segmentation,Seg,http://www.cs.berkeley.edu/~jonlong/
-Deeply learned face representations are sparse, selective, and robust,Face,http://arxiv.org/pdf/1412.1265v1
+Deeply learned face representations are sparse selective and robust,Face,http://arxiv.org/pdf/1412.1265v1
+Is object localization for free? - Weakly-supervised learning with convolutional neural networks, DET, http://www.di.ens.fr/willow/research/weakcnn/
 ,,
 ,,
 **********Journal Paper 2014***********,,
