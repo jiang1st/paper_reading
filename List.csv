@@ -38,6 +38,10 @@ Deeply learned face representations are sparse selective and robust,Face,http://
 Is object localization for free? - Weakly-supervised learning with convolutional neural networks, DET, http://www.di.ens.fr/willow/research/weakcnn/
 ,,
 ,,
+
+**********ICCV'15**********,,
+Holistically-Nested Edge Detection, Edge Det, http://arxiv.org/abs/1504.06375
+
 **********Journal Paper 2014***********,,
 A Comprehensive Study Over VLAD and Product Quantization in Large-Scale Image Retrieval,IR,https://github.com/socialsensor/multimedia-indexing
 ,,
@@ -47,6 +51,5 @@ A Comprehensive Study Over VLAD and Product Quantization in Large-Scale Image Re
 **********arxiv 2015***********,,
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,CNN,
 Delving Deep into Rectifiers:Surpassing Human-Level Performance on ImageNet Classification,CNN,
-Holistically-Nested Edge Detection, Edge Det, http://arxiv.org/abs/1504.06375
-Learning to Segment Object Candidates, Det,
+Learning to Segment Object Candidates, Seg,
 Data-free Parameter Pruning for Deep Neural Networks,CNN,
