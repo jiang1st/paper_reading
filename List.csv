@@ -16,6 +16,7 @@ Visualizing and Understanding Convolutional Networks,CNN,http://ftp.cs.nyu.edu/~
 Analyzing the Performance of Multilayer Neural Networks for Object Recognition,CNN,http://arxiv.org/pdf/1407.1610.pdf
 Spatio-Temporal Object Detection Proposals,DET,http://lear.inrialpes.fr/~oneata/3Dproposals/
 Simultaneous Detection and Segmentation,SDS,http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
+Training Object Class Detectors from Eye Tracking Data, Gaze,
 ,,
 **********BMVC/ICLR/MM**********,,
 "[BMVC2014]How good are detection proposals, really?",DET,https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/
@@ -36,12 +37,13 @@ Domain-Size Pooling in Local Descriptors: DSP-SIFT,Match,http://vision.ucla.edu/
 Fully Convolutional Networks for Semantic Segmentation,Seg,http://www.cs.berkeley.edu/~jonlong/
 Deeply learned face representations are sparse selective and robust,Face,http://arxiv.org/pdf/1412.1265v1
 Is object localization for free? - Weakly-supervised learning with convolutional neural networks, DET, http://www.di.ens.fr/willow/research/weakcnn/
-,,
+Eye tracking assisted extraction of attentionally important objects from videos, Gaze,
 ,,
 
 **********ICCV'15**********,,
 Holistically-Nested Edge Detection, Edge Det, http://arxiv.org/abs/1504.06375
-,,
+Fast RCNN,Det,https://github.com/rbgirshick/fast-rcnn
+Learning to Segment Object Candidates, Seg,
 ,,
 **********Journal Paper 2014***********,,
 A Comprehensive Study Over VLAD and Product Quantization in Large-Scale Image Retrieval,IR,https://github.com/socialsensor/multimedia-indexing
@@ -52,6 +54,6 @@ A Comprehensive Study Over VLAD and Product Quantization in Large-Scale Image Re
 **********arxiv 2015***********,,
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,CNN,
 Delving Deep into Rectifiers:Surpassing Human-Level Performance on ImageNet Classification,CNN,
-Learning to Segment Object Candidates, Seg,
 Data-free Parameter Pruning for Deep Neural Networks,CNN,
 Deepsaliency: multi-task deep neural network model for salient object detection, DET,
+DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations, Gaze,
