@@ -38,7 +38,7 @@ Fully Convolutional Networks for Semantic Segmentation,Seg,http://www.cs.berkele
 Deeply learned face representations are sparse selective and robust,Face,http://arxiv.org/pdf/1412.1265v1
 Is object localization for free? - Weakly-supervised learning with convolutional neural networks, DET, http://www.di.ens.fr/willow/research/weakcnn/
 Eye tracking assisted extraction of attentionally important objects from videos, Gaze,
-,,
+Deeply Learned Face Representations Are Sparse Selective and Robust,Face,
 
 **********ICCV'15**********,,
 Holistically-Nested Edge Detection, Edge Det, http://arxiv.org/abs/1504.06375
