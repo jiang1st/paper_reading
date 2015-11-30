@@ -44,6 +44,8 @@ Eye tracking assisted extraction of attentionally important objects from videos,
 Holistically-Nested Edge Detection, Edge Det, http://arxiv.org/abs/1504.06375
 Fast RCNN,Det,https://github.com/rbgirshick/fast-rcnn
 Learning to Segment Object Candidates, Seg,
+Learning Deconvolution Network for Semantic Segmentation, Seg, https://github.com/HyeonwooNoh/DeconvNet
+Object Detection via a Multi-Region and Semantic Segmentation-Aware CNN Model, Det,http://arxiv.org/abs/1505.01749
 ,,
 **********Journal Paper 2014***********,,
 A Comprehensive Study Over VLAD and Product Quantization in Large-Scale Image Retrieval,IR,https://github.com/socialsensor/multimedia-indexing
