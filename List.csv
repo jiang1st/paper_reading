@@ -32,6 +32,7 @@ Deep Learning Face Representation by Joint Identification - Verification,Face,
 Faster RCNN: Towards Real-Time Object Detection with Region Proposal Networks,Det,https://github.com/ShaoqingRen/faster_rcnn
 Learning to Segment Object Candidates, Seg,
 Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, Seg, https://github.com/HyeonwooNoh/DecoupledNet
+Spatial Transformer Networks,CNN,
 ,,
 **********CVPR'15**********,,
 Hypercolumns for Object Segmentation and Fine-grained Localization,SDS,http://www.cs.berkeley.edu/~bharath2/pubs/pdfs/BharathCVPR2015.pdf
