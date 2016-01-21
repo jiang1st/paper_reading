@@ -67,3 +67,4 @@ DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations
 Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks, Det, 
 Instance-aware Semantic Segmentation via Multi-task Network Cascades, Det & Seg,
 Deep Residual Learning for Image Recognition, Cls,
+Attention to Scale: Scale-aware Semantic Image Segmentation, Seg,
